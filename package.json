@@ -53,7 +53,7 @@
     "@tiptap/extension-strike": "^2.1.13",
     "@tiptap/extension-text": "^2.1.13",
     "@tiptap/extension-underline": "^2.1.13",
-    "@tiptap/pm": "^2.1.13",
+    "@tiptap/pm": "^3.29.0",
     "@tiptap/react": "^2.1.13",
     "@tiptap/starter-kit": "^2.1.13",
     "@types/node": "20.6.2",
