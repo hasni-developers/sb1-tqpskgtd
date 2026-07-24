@@ -43,7 +43,7 @@
     "@radix-ui/react-toggle-group": "^1.1.0",
     "@radix-ui/react-tooltip": "^1.1.2",
     "@tiptap/extension-bold": "^2.1.13",
-    "@tiptap/extension-code": "^2.1.13",
+    "@tiptap/extension-code": "^3.29.0",
     "@tiptap/extension-heading": "^2.1.13",
     "@tiptap/extension-italic": "^2.1.13",
     "@tiptap/extension-link": "^2.1.13",
