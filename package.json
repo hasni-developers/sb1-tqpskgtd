@@ -69,7 +69,7 @@
     "eslint-config-next": "16.2.9",
     "input-otp": "^1.2.4",
     "lucide-react": "^0.446.0",
-    "next": "15.5.18",
+    "next": "15.5.21",
     "next-themes": "^0.3.0",
     "postcss": "8.5.10",
     "prisma": "^5.7.1",
